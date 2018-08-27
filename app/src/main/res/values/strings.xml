@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TallerManillas</string>
+    <string name="material">Seleccione el material de la manilla</string>
+    <string name="dije">Seleccione el estilo de dije</string>
+    <string name="tipo">Seleccione el tipo de dije</string>
+    <string name="moneda">Escoge el tipo de moneda</string>
+    <string name="cantidad">Ingrese cantidad de manillas a comprar</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="vlrunidad">Valor cancelado por unidad:</string>
+    <string name="vlrtotal">Valor total de la compra:</string>
+    <string name="titulo">Tienda Online</string>
+    <string name="cuerda">Cuerda</string>
+    <string name="cuero">Cuero</string>
+    <string name="oro">Oro u oro rosado</string>
+    <string name="plata">Plata</string>
+    <string name="niquel">Niquel</string>
+    <string name="ancla">Ancla</string>
+    <string name="martillo">Martillo</string>
+    <string name="pesosColombianos">Pesos</string>
+    <string name="dolares">Dolares</string>
+    <string name="mensajeError1">No ha digitado la cantidad de manillas que desea comprar</string>
+    <string name="mensjaeError2">Cero no es una cantidad para calcular</string>
+
+    <string-array name="materiales">
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+    <string-array name="dijes">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+    <string-array name="tipos">
+        <item>@string/oro</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+    <string-array name="monedas">
+        <item>@string/dolares</item>
+        <item>@string/pesosColombianos</item>
+    </string-array>
+
+</resources>

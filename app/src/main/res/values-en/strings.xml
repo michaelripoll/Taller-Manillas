@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerManillas</string>
+    <string name="material">"Select the material of the handle "</string>
+    <string name="dije">Select the style of the pendant</string>
+    <string name="tipo">Select the type of pendant</string>
+    <string name="moneda">"Choose the type of currency "</string>
+    <string name="cantidad">"Enter quantity of handles to buy "</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpiar">Clean</string>
+    <string name="vlrunidad">Value canceled per unit:</string>
+    <string name="vlrtotal">Total value of the purchase:</string>
+    <string name="titulo">Online Store</string>
+    <string name="cuerda">Rope</string>
+    <string name="cuero">Leather</string>
+    <string name="oro">Gold or pink gold</string>
+    <string name="plata">Silver</string>
+    <string name="niquel">Nickel</string>
+    <string name="ancla">Anchor</string>
+    <string name="martillo">Hammer</string>
+    <string name="mensajeError1">"You have not entered the number of handles you want to buy "</string>
+    <string name="mensjaeError2">Zero is not an amount to calculate</string>
+    <string name="pesosColombianos">Pesos</string>
+    <string name="dolares">Dollars</string>
+</resources>
